@@ -1,0 +1,34 @@
+body{
+  font-size: 14px;
+}
+img{
+  width: auto;
+  height: 300px;
+}
+.navbar a{
+  text-decoration: none;
+}
+.view-tail{
+  text-decoration: none;
+}
+#BookKeyword{
+  width: 60%!important;
+}
+.details dl{
+  width: 100%;
+}
+.details dl dt{
+  padding: 7px;
+}
+.details dl dd{
+  padding: 7px;
+  margin-top: -34px;
+}
+.near-book{
+  margin-top: 30px;
+}
+.near-book h3{
+  text-align: center;
+}
+
+
